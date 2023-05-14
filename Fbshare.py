@@ -148,7 +148,7 @@ def main():
       
 def logout():
    print(Panel('[bold cyan]Follow dulu ngab!'));time.sleep(2)
-   try:os.system('xdg-open https://www.facebook.com/Dikidjatar')
+   try:os.system('xdg-open https://www.facebook.com/imam12po')
    except:pass
 
 if __name__ == '__main__':
