@@ -3,7 +3,7 @@
 - `pkg update -y && pkg upgrade -y`
 - `pkg install python3`
 - `pkg install git`
-- `git clone https://github.com/dikidjatar/FB-Share`
+- `git clone https://github.com/dani12po/Bot-ShareFB`
 - `cd FB-Share`
 - `python3 Fbshare.py`
 
