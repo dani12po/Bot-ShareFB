@@ -4,7 +4,7 @@
 - `pkg install python3`
 - `pkg install git`
 - `git clone https://github.com/dani12po/Bot-ShareFB`
-- `cd FB-Share`
+- `cd Bot-ShareFB`
 - `python3 Fbshare.py`
 
 **Good Luck**
